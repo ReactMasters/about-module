@@ -10,5 +10,6 @@ import a from "b";
 export default { a };
 ```
 
-- [CommonJS Module](./CommonJSModules.md)
-- [ECMAScript Module](./ECMAScriptModules.md)
+- [CommonJS Module](./docs/CommonJSModules.md)
+- [ECMAScript Module](./docs/ECMAScriptModules.md)
+- [Modules ackage](./docs/ModulesPackage.md)
