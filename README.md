@@ -116,12 +116,6 @@ console.log(a.isEmail("jegwan@naver.com"));
 // node --experimental-modules ./src/esm-cjs/cjs-in-esm.mjs
 ```
 
-```js
-import("./b.mjs").then((b) => {
-  console.log(b, b.isDate("2018-01-03"));
-});
-```
-
 #### CJS 에서 ESM 불러오기
 
 ```js
